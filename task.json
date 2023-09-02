@@ -1,0 +1,893 @@
+[
+        {
+            "id":"1",
+            "space":"bedroom",
+            "title":"Gather all the necessary supplies",
+            "explanation":"Ensure to gather all necessary item required for cleaning",
+            "time":"3 minutes"
+        },
+        {
+            "id":"2",
+            "space":"bedroom",
+            "title":"Open all curtains and doors for air to enter",
+            "explanation":"Allow air to circulate the room.",
+            "precaution":"ENSURE TO ASK PERMISSION FIRST.",
+            "time":"2 minutes"
+        },
+        {
+            "id":"3",
+            "space":"bedroom",
+            "title":"Pick and trash all unnecessary/waste items",
+            "explanation":"Pick up any empty nylons,cans,wrappers etc and trash them",
+            "time":"5 minutes"
+        },
+        {
+            "id":"4",
+            "space":"bedroom",
+            "title":"Take Out Trash",
+            "explanation":"Take out the bin/trash. Ensure to properly dust it before bringing it back",
+            "time":"3 minutes"
+        },
+        {
+            "id":"5",
+            "space":"bedroom",
+            "title":"Pick Up Dirty Clothes",
+            "explanation":"Put all dirty clothes in a basket or empty bucket",
+            "time":"5 minutes"
+        },
+        {
+            "id":"6",
+            "space":"bedroom",
+            "title":"Put Away Clean Clothes",
+            "explanation":"Fold all clean clothes. Make sure to hang blouses and sweaters facing the same direction.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"7",
+            "space":"bedroom",
+            "title":"Pick Up Misplaced Items on the floor",
+            "explanation":"Pick up all misplaced item and put all of them in ONE PLACE.",
+            "precaution":"Ensure to alert the customer where you kept all items",
+            "time":"3 minutes"
+        },
+        {
+            "id":"8",
+            "space":"bedroom",
+            "title":"Strip The Bed",
+            "explanation":"Take the time to strip the bed. Remove the sheets, and pillowcases. Then dust them off.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"9",
+            "space":"bedroom",
+            "title":"Take every mat or rugs outside to beat them free of dust",
+            "explanation":"If there's any mats or rugs in the room, take these outside and beat them to remove any dust and fluff. Leave this outside and then head back in to clean your floor",
+            "time":"5 minutes",
+            "image":"https://www.wikihow.com/images/thumb/8/84/Clean-Bedrooms-Step-18-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-18-Version-2.jpg.webp"
+        },
+        {
+            "id":"10",
+            "space":"bedroom",
+            "title":"Brush off dust from Curtains and Light Fixtures",
+            "explanation":"Lampshades,window treatments, and light fixtures collect dust as fast as the other furniture pieces. You should lightly dust these features with a duster.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"11",
+            "space":"bedroom",
+            "title":"Clear Surface Clutter",
+            "explanation":"Dust surfaces like tables,chair etc. Ensure to put items found on the surface back where you found them",
+            "time":"10 minutes"
+        },
+        {
+            "id":"12",
+            "space":"bedroom",
+            "title":"Wipe Surfaces Clean",
+            "explanation":"Use spray, glass cleaner, or antibacterial wipes, for the surfaces.",
+            "time":"10 minutes"
+        },
+        {
+            "id":"13",
+            "space":"bedroom",
+            "title":"Brush dust off the fans",
+            "explanation":"Don’t overlook anything hanging from the ceiling! Use a chair to climb if necessary",
+            "time":"10 minutes",
+            "deep_clean":true
+        },
+        {
+            "id":"14",
+            "space":"bedroom",
+            "title":"Clean surrounding furnitures.",
+            "explanation":"Pay attention to the legs of chairs and tables,doors,air conditioner surfaces, fan legs ",
+            "time":"10 minutes"
+        },
+        {
+            "id":"15",
+            "space":"bedroom",
+            "title":"Dust and wash the baseboards near the floor.",
+            "explanation":"Clear out the bottom part of the wall the same way you did with the top.",
+            "time":"10 minutes",
+            "deep_clean":true
+        },
+        {
+            "id":"16",
+            "space":"bedroom",
+            "title":"Scrub out stains from the baseboards.",
+            "deep_clean":true,
+            "explanation":"Once the baseboards look dust-free, scrub out remaining stains with a cloth dampened in warm water.",
+            "time":"10 minutes"
+        },
+        {
+            "id":"17",
+            "space":"bedroom",
+            "title":"Wipe Down Windows, Mirrors",
+            "explanation":"Let the light shine through the windows without any stain or scratches on it. Wipe it with a cleaning agent",
+            "time":"5 minutes"
+        },
+        {
+            "id":"18",
+            "space":"bedroom",
+            "title":"Dust headboards and footboards with a cloth and cleaner",
+            "explanation":"Wipe off dust with a dry cloth, followed by one lightly dampened in warm water.",
+            "time":"5 minutes",
+            "image":"https://www.wikihow.com/images/thumb/2/26/Clean-Bedrooms-Step-10-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-10-Version-2.jpg.webp"
+        },
+        {
+            "id":"19",
+            "space":"bedroom",
+            "title":"Take all items off shelves and nightstands for dusting.",
+            "deep_clean":true,
+            "explanation":"Take everything the furniture. That includes lamps, books, and shoes etc. Wipe off the furniture with a slightly dampened rag to eliminate any gathered dust.",
+            "time":"5 minutes",
+            "image":"https://www.wikihow.com/images/thumb/4/44/Clean-Bedrooms-Step-13-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-13-Version-2.jpg.webp"
+        },
+        {
+            "id":"20",
+            "space":"bedroom",
+            "title":"Scrub off mildew and dust bunnies inside the furniture.",
+            "deep_clean":true,
+            "explanation":"Scrub any black or green spots with vinegar or bleach dissolved in water also helps. Wash off any remaining dust as well.",
+            "time":"5 minutes",
+            "image":"https://www.wikihow.com/images/thumb/5/54/Clean-Bedrooms-Step-15-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-15-Version-2.jpg.webp"
+        },
+        {
+            "id":"21",
+            "space":"bedroom",
+            "title":"Pull lampshades off the lights to clean them.",
+            "deep_clean":true,
+            "explanation":"Remove the lampshades, wipe down the lamps and bulbs with a dry cloth or duster",
+            "time":"5 minutes",
+            "precaution":"Make sure they are turned off. Hot bulbs aren’t fun to touch. Make sure the bulbs are dry before turning them back on.",
+            "image":"https://www.wikihow.com/images/thumb/c/cb/Clean-Bedrooms-Step-14-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-14-Version-2.jpg.webp"
+        },
+        {
+            "id":"22",
+            "space":"bedroom",
+            "title":"Sweep out everything under the bed and furnitures.",
+            "explanation":"Shift the bed out of the wall and sweep out every thing. Do this for every furniture in the bedroom.",
+            "time":"5 minutes",
+            "image":"https://www.wikihow.com/images/thumb/b/b6/Clean-Bedrooms-Step-21-Version-2.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-21-Version-2.jpg.webp"
+        },
+        {
+            "id":"23",
+            "space":"bedroom",
+            "title":"Sweep the entire room",
+            "explanation":"Remove and dust any rugs before sweeping the entire floor",
+            "time":"10 minutes"
+        },
+        {
+            "id":"24",
+            "space":"bedroom",
+            "title":"Mop the entire room",
+            "explanation":"Ensure to mix water, a cleaning agent and detergent in a bucket for cleaning.",
+            "image":"https://www.wikihow.com/images/thumb/3/3b/Clean-Bedrooms-Step-20.jpg/aid1600025-v4-728px-Clean-Bedrooms-Step-20.jpg.webp",
+            "time":"7 minutes"
+        },
+        {
+            "id":"25",
+            "space":"bedroom",
+            "title":"Dry the mop and dry the floors",
+            "explanation":"Squeeze the mop till the water doesn't sprinkle off it. Use it to then dry the floor.",
+            "time":"10 minutes"
+        },
+        {
+            "id":"26",
+            "space":"bedroom",
+            "title":"Spray some air freshner",
+            "explanation":"Spray some air freshner around the room.",
+            "time":"2 minutes"
+        },
+        {
+            "id":"1",
+            "space":"kitchen",
+            "title":"Clear clutter off your counters",
+            "explanation":"Start in one corner of the kitchen, or one section of counter, and remove everything that doesn’t belong on the counters",
+            "time":"2 minutes"
+        },
+        {
+            "id":"2",
+            "space":"kitchen",
+            "title":"Wipe down the counters",
+            "explanation":"Wipe the counters thoroughly with a bit damp a microfiber cloth and anti-bacterial sprays. Then use a dry microfiber to make counters shine. Repeat with each section of counter.",
+            "time":"4 minutes"
+        },
+        {
+            "id":"3",
+            "space":"kitchen",
+            "title":"Clean small appliances",
+            "explanation":"Use warm, soapy water and a sponge to wipe any stains inside the microwave. For really tough stains, use a mixture of 2 tablespoons of baking soda and 1 tablespoon of water. ",
+            "time":"10 minutes"
+        },
+        {
+            "id":"4",
+            "space":"kitchen",
+            "title":"Rinse and dry small appliances",
+            "explanation":"Rinse with clean water, then dry with a dry clean towel.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"5",
+            "space":"kitchen",
+            "title":"Return the small appliances to their positions.",
+            "explanation":"If you have forgotten where they are please ask the customer.",
+            "time":"1 minutes"
+        },
+        {
+            "id":"6",
+            "space":"kitchen",
+            "title":"Empty the dishwasher and the dish drainer and wash dishes",
+            "explanation":"Wash any lingering dishes first and then run the dishwasher before you continue cleaning. Wash any and all dishes that are hanging around, including water bottles.",
+            "time":"10 minutes"
+        },
+        {
+            "id":"7",
+            "space":"kitchen",
+            "title":"Wipe the basin and fixtures of the sink.",
+            "explanation":"Wash the basin with warm, soapy water and a sponge. Rinse along the edge of the basin, as well. Clean the sink with 1 spoon of baking soda and 2 spoon white vinegar mixed together and let the mixture stay on the sink for 3 minutes.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"8",
+            "space":"kitchen",
+            "title":"Clean the tap and around the tap.",
+            "explanation":"Use a toothbrush dipped in warm, soapy water. Remove out any water spots left behind with a dry cloth.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"9",
+            "space":"kitchen",
+            "title":"Get rid of mineral deposits.",
+            "explanation":"To get rid of these deposits, combine one part water with one part white vinegar. Gently scrub around the tap with a rag. Rinse the area and let it dry.",
+            "time":"2 minutes"
+        },
+        {
+            "id":"10",
+            "space":"kitchen",
+            "title":"Scrub the exterior of the stove and oven.",
+            "explanation":"Start at the top: If theres a gas stove top, remove grills and wipe the surface underneath with all-purpose cleaner. Wipe the whole thing down with warm soapy water.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"11",
+            "space":"kitchen",
+            "title":"Wipe the burners.",
+            "explanation":"Gas burners can be removed and washed by hand with warm water and soap.",
+            "precaution": "Not every gas burner can be removed. Ensure to ask the owner first",
+            "time":"5 minutes"
+        },
+        {
+            "id":"12",
+            "space":"kitchen",
+            "title":"Wipe the stove surface.",
+            "explanation":" Use a sponge and soap, or Clorox wipes to really remove those stains. Scrape off burnt-on food with a wet razor blade",
+            "time":"3 minutes"
+        },
+        {
+            "id":"13",
+            "space":"kitchen",
+            "title":"Remove the control knobs and wash them.",
+            "explanation":"Wash them in the sink using warm water and normal soap.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"14",
+            "space":"kitchen",
+            "title":"Wipe the outside of the vent hood.",
+            "explanation":"Use a soapy cloth to clean the vent hood. Wash away the bubbles with a damp cloth, then dry with a dry cloth.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"15",
+            "space":"kitchen",
+            "title":"Clean the grates/grill of the oven",
+            "explanation":"Remove the grates/grill from the oven and wash the grates with soapy water.",
+            "time":"7 minutes"
+        },
+        {
+            "id":"16",
+            "space":"kitchen",
+            "title":"Give the inside of the oven a good cleaning",
+            "explanation":"Mix a spoon and half of salt, two spoons of baking soda and a spoon and half of water.",
+            "precaution":"If they have an electric stove, remove the racks/metal-plates and put the oven on cleaning mode. ASK THE OWNER FOR HELP",
+            "time":"3 minutes"
+        },
+        {
+            "id":"17",
+            "space":"kitchen",
+            "title":"Apply the mixture to the bottom of the oven inside.",
+            "explanation":"Let it stay for 20 minutes. Continue to other chores",
+            "precaution":"If they have an electric stove, remove the racks/metal-plates and put the oven on cleaning mode. ASK THE OWNER FOR HELP",
+            "time":"5 minutes"
+        },
+        {
+            "id":"18",
+            "space":"kitchen",
+            "title":"Clean the your cabinets.",
+            "explanation":"Remove everything from the cabinet and clean it out with damp cloth and soap. Then dry it out with dry cloth.",
+            "time":"6 minutes"
+        },
+        {
+            "id":"19",
+            "space":"kitchen",
+            "title":"Clean the front of your cabinets",
+            "explanation":"Wipe them down with a wet rag and dry them thoroughly to avoid any color distortion.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"20",
+            "space":"kitchen",
+            "title":" Unplug the refrigerator for cleaning.",
+            "explanation":"none",
+            "precaution":"ASK THE CUSTOMER FIRST!!!",
+            "time":"1 minutes"
+        },
+        {
+            "id":"21",
+            "space":"kitchen",
+            "title":"Mix a solution for the fridge.",
+            "explanation":"Remove all food from the fridge. Combine two tablespoons of baking soda and one quarter spoon of water.",
+            "precaution":"ASK THE CUSTOMER FIRST BEFORE YOU REMOVE THE FOODS",
+            "time":"2 minutes"
+        },
+        {
+            "id":"22",
+            "space":"kitchen",
+            "title":"Use the solution in the fridge.",
+            "explanation":"Dip a sponge in the mixture/solution,then wipe down the entire surfaces inside of the fridge, making sure to scrub out sticky stains.",
+            "precaution":"ASK THE CUSTOMER FIRST BEFORE YOU REMOVE THE FOODS",
+            "time":"7 minutes"
+        },
+        {
+            "id":"23",
+            "space":"kitchen",
+            "title":"Wipe off the mixture/solution in the fridge away with a damp cloth.",
+            "explanation":"Dip a clean rag/towel in water and wash away any residue left behind by the baking soda mixture/solution. Use a clean towel to dry each surface.",
+            "time":"3 minutes"
+        },
+        {
+            "id":"24",
+            "space":"kitchen",
+            "title":"If the fridge doesn't smell good..",
+            "explanation":"Leave a box of baking soda in the fridge for 5 minutes.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"25",
+            "space":"kitchen",
+            "title":"Clean out the freezer.",
+            "explanation":"Put everything inside the fridge gently and clean the freezer.",
+            "precaution":"ASK THE CUSTOMER FIRST!!!",
+            "time":"3 minutes"
+        },
+        {
+            "id":"25",
+            "space":"kitchen",
+            "title":"Cleaning solution. ",
+            "explanation":"Combine 1 cup of water, 1 teaspoon dish soap, and 1 teaspoon white vinegar. Shake the solution well. If possible, put the solution in a spray bottle so you can just spray the whole freezer.",
+            "precaution":"",
+            "time":"2 minutes"
+        },
+        {
+            "id":"26",
+            "space":"kitchen",
+            "title":"Wipe the freezer with the mixture.",
+            "explanation":"Dip a clean rag or sponge in the mixture and wipe down every surface in the freezer.",
+            "precaution":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"27",
+            "space":"kitchen",
+            "title":"Return all the food items in the fridge.",
+            "explanation":"Plug the refrigerator back in and restore your frozen goods to their proper places.",
+            "precaution":"",
+            "time":"3 minutes"
+        },
+        {
+            "id":"28",
+            "space":"kitchen",
+            "title":"Sweep The floor of the kitchen.",
+            "explanation":"Sweep any specks of dust, crumbs, and garbage that is be on the floor.",
+            "precaution":"",
+            "time":"10 minutes"
+        },
+        {
+            "id":"29",
+            "space":"kitchen",
+            "title":"Mop the floor.",
+            "explanation":"Use a mop and bucket of soapy water to deep clean the floor.",
+            "precaution":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"30",
+            "space":"kitchen",
+            "title":"Dry the mop and dry the floors",
+            "explanation":"After moping the floor,squeeze the mop and dry the floor.",
+            "precaution":"",
+            "time":"7 minutes"
+        },
+        {
+            "id":"30",
+            "space":"kitchen",
+            "title":"Put everything back in its proper place.",
+            "explanation":"Ensure everything is in order and in the place you found them.",
+            "precaution":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"31",
+            "space":"kitchen",
+            "title":"Take out the trash.",
+            "explanation":"Last of all, take out the trash. Wash the trash can with soap and water.",
+            "precaution":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"closet",
+            "title":"Remove all clothes from the closet.",
+            "explanation":"Take all the clothes off their hangers and out of any bins or drawers in your closet. Fold them in piles on the bed. Drop shoes on the floor. It may also include other accessories such as belts, scarves, purses, or ties.",
+            "image":"https://www.wikihow.com/images/thumb/f/fa/Organize-Your-Closet-Step-1-Version-3.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-1-Version-3.jpg.webp",
+            "precaution":"Ask the customer for permission first!!",
+            "time":"5 minutes"
+        },
+        {
+            "id":"2",
+            "space":"closet",
+            "title":"Clean the inside of the closet.",
+            "explanation":"You should do this before you put back the clothes. Sweep the floor, wipe the walls down with all-purpose cleaner, and sweep away any cobwebs that may have accumulated there.",
+            "image":"https://www.wikihow.com/images/thumb/9/97/Organize-Your-Closet-Step-5-Version-3.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-5-Version-3.jpg.webp",
+            "precaution":"Ask the customer for permission first!!",
+            "time":"5 minutes"
+        },
+        {
+            "id":"3",
+            "space":"closet",
+            "title":"Check the bedroom first for any clothes laying around.",
+            "explanation":"Gather them and fold them.",
+            "precaution":"Ensure to ask the customer if they need their closet to be arranged.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"4",
+            "space":"closet",
+            "title":"Check the closet for any unfolded clothes",
+            "explanation":"Some closet might use hangers. So check for any clothes that are not hanged or folded.",
+            "precaution":"Ensure to ask the customer if they need their closet to be arranged.",
+            "time":"5 minutes"
+        },
+        {
+            "id":"5",
+            "space":"closet",
+            "title":"Ask the customer where each clothes are kept.",
+            "explanation":"You would need to ask the customer where each clothes are kept so that you can hang or fold each item in their respective place.",
+            "precaution":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"6",
+            "space":"closet",
+            "title":"Fold or hang the clothes appropriately.",
+            "explanation":"Ensure the clothes are facing one side if you are hanging them. Organize the clothes by type. Separate the tank tops, shirts, pants, skirts,boxers and dresses.",
+            "precaution":"Ensure to ask the customer if they need their closet to be arranged.",
+            "image":"https://www.wikihow.com/images/thumb/c/ce/Organize-Your-Closet-Step-6-Version-3.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-6-Version-3.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"7",
+            "space":"closet",
+            "title":"Dust and wipe each shoe",
+            "explanation":"Some shoes might have accumulated dust. Ensure to dust them appropriately.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"8",
+            "space":"closet",
+            "title":"Organize the shoes.",
+            "explanation":"Organize them by type. Separate your dress shoes, sandals, and boots.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/5/51/Organize-Your-Closet-Step-8-Version-3.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-8-Version-3.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"9",
+            "space":"closet",
+            "title":"Organize any additional items.",
+            "explanation":"It's likely that the customer had other things in the closet. Organize each appropriately.",
+            "precaution":"Do not throw away or remove any item unless the customer says so.",
+            "image":"https://www.wikihow.com/images/thumb/5/50/Organize-Your-Closet-Step-10-Version-3.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-10-Version-3.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"10",
+            "space":"closet",
+            "title":"Take a step back and view the newly organized closet. ",
+            "explanation":"Check the closet you organized and see if there's any fault in your work and fix it.",
+            "precaution":"Do not throw away or remove any item unless the customer says so.",
+            "image":"https://www.wikihow.com/images/thumb/8/87/Organize-Your-Closet-Step-12-Version-2.jpg/aid111753-v4-728px-Organize-Your-Closet-Step-12-Version-2.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"toiletbathroom",
+            "title":"Open all windows and doors to properly ventilate the toilet/bathroom",
+            "explanation":"This is so that all the fumes from the chemicals don't have any effect on the customer.",
+            "precaution":"",
+            "image":"",
+            "time":"10 minutes"
+        },
+        {
+            "id":"2",
+            "space":"toiletbathroom",
+            "title":"Apply cleanser to the dirtiest areas and let sit.",
+            "explanation":"The areas of the bathroom that are the dirtiest will require some extra time to get clean. Pick the bathroom cleaner(s) and apply it to areas such as the shower, toilet, and sink and allow it sit until the end of your cleaning.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/ee/Clean-Your-Bathroom-Fast-Step-2-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-2-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"3",
+            "space":"toiletbathroom",
+            "title":"Wipe down other surfaces.",
+            "explanation":"There may be other surfaces in the bathroom that need cleaning, but aren't quite as dirty as the sink, shower, and toilet. Use a glass cleaner on any mirrors and windows, and wipe down the countertops and other surfaces with a microfiber cloth dampened with warm soapy water.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/ee/Clean-Your-Bathroom-Fast-Step-3-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-3-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"4",
+            "space":"toiletbathroom",
+            "title":"Shake out the bath mat.",
+            "explanation":"Pick up the mats and shake them outside to remove any crumbs, dirt, or other debris and fluff them up so they appear as if they're fresh",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/0/0a/Clean-Your-Bathroom-Fast-Step-4-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-4-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"5",
+            "space":"toiletbathroom",
+            "title":"Wash and Rinse the dirtiest areas.",
+            "explanation":"Once the cleanser on the dirtiest areas has been sitting for 10 minutes or so, it's time to rinse the surfaces clean.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"6",
+            "space":"toiletbathroom",
+            "title":"Clean the outside of the toilet.",
+            "explanation":"Clean the outside of the toilet, including the top of the tank and bottom of the bowl, before moving onto the seat, under the seat, and inside the bowl.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e4/Clean-Your-Bathroom-Fast-Step-5-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-5-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"7",
+            "space":"toiletbathroom",
+            "title":"Clean the showers and tub.",
+            "explanation":"Use a scrub brush or sponge to clean the shower, tub, and door, and rinse with the shower head.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/7/7b/Clean-Your-Bathroom-Fast-Step-8-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-8-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"8",
+            "space":"toiletbathroom",
+            "title":"Clean out the corners of the room.",
+            "explanation":"Places like window areas and so on should be cleaned. Take the time to wipe out these areas with a damp paper towel to remove the dirt.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/8/85/Clean-Your-Bathroom-Fast-Step-6-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-6-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"9",
+            "space":"toiletbathroom",
+            "title":"Sweep the entire bathroom/toilet.",
+            "explanation":"Sweep every corner and hidden places like behind the toilet, under the sink and under the trash can/dustbin.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"10",
+            "space":"toiletbathroom",
+            "title":"Mop the entire bathroom/toilet.",
+            "explanation":"Mop every corner and hidden places like behind the toilet, under the sink and so forth.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"11",
+            "space":"toiletbathroom",
+            "title":"Gather up any trash and throw it away.",
+            "explanation":"Take away the trash can.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e5/Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"balcony",
+            "title":"Clear everything off your balcony.",
+            "explanation":"You’ll clean more thoroughly if you start in an empty space. Bring all of the things inside or put somewhere else.",
+            "precaution":"Ensure whatever you remove from the balcony is properly dusted and clean.",
+            "image":"https://www.wikihow.com/images/thumb/e/e5/Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"2",
+            "space":"balcony",
+            "title":"Remove any cobwebs on the ceilings.",
+            "explanation":"If the ceiling is high, use a chair to climb safely or a long broom and remove the cobwebs",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e5/Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"3",
+            "space":"balcony",
+            "title":"Wipe and Dust the rails or balcony handles.",
+            "explanation":"If there are stainless steel rails, Use your sponge to wipe down the walls or railings around the balcony and wipe off any dust/stain.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e5/Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg/aid48008-v4-728px-Clean-Your-Bathroom-Fast-Step-1-Version-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"4",
+            "space":"balcony",
+            "title":"Sweep the balcony.",
+            "explanation":"Start near the edges of the balcony and work towards the center, collecting the dirt in a couple of spots. Be sure to reach all the tight corners of the balcony since that’s where dirt builds up the most.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/8/84/Clean-a-Concrete-Balcony-Step-2.jpg/aid12899585-v4-728px-Clean-a-Concrete-Balcony-Step-2.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"5",
+            "space":"balcony",
+            "title":"Sponge or mop the balcony.",
+            "explanation":"Fill a bucket with warm water and mix in a little bit of mopping solution or detergent. Mop the floor with your cleaning solution working from the edges of your balcony toward the center.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/8/85/Clean-a-Concrete-Balcony-Step-3.jpg/aid12899585-v4-728px-Clean-a-Concrete-Balcony-Step-3.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"6",
+            "space":"balcony",
+            "title":"Rinse the balcony with clean water and mop.",
+            "explanation":"Do not add soap. Only clean water.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/8/85/Clean-a-Concrete-Balcony-Step-3.jpg/aid12899585-v4-728px-Clean-a-Concrete-Balcony-Step-3.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Let some light and breeze in.",
+            "explanation":"Open the windows for some fresh air, which will help dispel any unpleasant odors and chemicals you may be using to clean.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/2/25/Clean-a-Living-Room-Step-2.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-2.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Pick up any trash.",
+            "explanation":"Bring a bag with you to eliminate countless trips to the trash bin. Throw away all obvious trash",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/6/6a/Clean-a-Living-Room-Step-4.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"De-clutter the space",
+            "explanation":"Gather anything that’s out of place, such as toys, video games, books, papers, etc., and put in a pile in the middle of the room.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/d/d3/Clean-a-Living-Room-Step-5.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-5.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Scroll below to see how to clean the couch/sofa.",
+            "explanation":"Every type of couch is different and need to be treated as such.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Straighten up the sofa.",
+            "explanation":"Fluff pillows, straighten seat cushions, and fold any blankets to tidy up this area.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/7/7a/Clean-a-Living-Room-Step-6.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-6.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Dust surfaces.",
+            "explanation":"Run a slightly damp cloth over main surfaces such as the coffee table, TV, and shelves to pick up dust and spot-clean any fingerprints.",
+            "precaution":"Dust from top to bottom, as dust falls and settles.",
+            "image":"https://www.wikihow.com/images/thumb/7/70/Clean-a-Living-Room-Step-7.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-7.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Straighten and stack any books or magazines on the coffee table.",
+            "explanation":"If there are too many objects on the table it'll look cluttered. So take the steps to clean it.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/0/0b/Clean-a-Living-Room-Step-8.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-8.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Clean the ceiling fan and light fixtures.",
+            "explanation":"When cleaning the light fixture, turn on the lights so you can see all of the cobwebs and dust more easily. Use a long, extending duster to work your way around the fixture.",
+            "precaution":"If your hands can reach please use a chair.",
+            "image":"https://www.wikihow.com/images/thumb/8/80/Clean-a-Living-Room-Step-10.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-10.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Dust the curtains and blinds lightly.",
+            "explanation":"When cleaning the light fixture, turn on the lights so you can see all of the cobwebs and dust more easily. Use a long, extending duster to work your way around the fixture.",
+            "precaution":"If your hands can reach please use a chair.",
+            "image":"https://www.wikihow.com/images/thumb/7/7d/Clean-a-Living-Room-Step-11.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-11.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Remove the rug and sweep out every dust or dirt.",
+            "explanation":"If there's a rug, sweep out and remove the dirt and dust that must have gathered under it.",
+            "precaution":"If there's a table/furniture on top the rug move it aside gently.",
+            "image":"https://www.wikihow.com/images/thumb/7/7d/Clean-a-Living-Room-Step-11.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-11.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Sweep the entire living room",
+            "explanation":"Sweep every where clean. Do not leave any corners of the living room uncleaned.",
+            "precaution":"Remember from the corners to the center.",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Mop the entire living room",
+            "explanation":"Get a bucket filled with water. Mix the water with soap and give it some scent. Then Mop every where clean and sparkling. Do not leave any corners of the living room uncleaned.",
+            "precaution":"Remember from the corners to the center.",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Polish the furniture.",
+            "explanation":"Make sure you've dusted the furniture with a slightly damp cloth. Then apply polish to the furniture with a soft cloth. ",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e2/Clean-a-Living-Room-Step-14.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-14.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"living room",
+            "title":"Keep all of the remotes/tv equipment in one place.",
+            "explanation":"Choose somewhere accessible that the customer will easily remember like beside the televison.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/0/0d/Clean-a-Living-Room-Step-17.jpg/aid3756-v4-728px-Clean-a-Living-Room-Step-17.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Tell the customer you are about to clean the store.",
+            "explanation":"This is because cleaning some customer's store might be scattering their store foods and equipments.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Clean one shelf at a time.",
+            "explanation":"Remove the contents of each shelf. Use a clear section of counter space or pull a kitchen table close.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Throw out anything you don't need.",
+            "explanation":"Use your judgment and remove any spoiled items or unnecessary items.",
+            "precaution":"Ask the customer before throwing away any items.",
+            "image":"https://www.wikihow.com/images/thumb/f/f2/Clean-up-Your-Pantry-Step-2.jpg/aid1432752-v4-728px-Clean-up-Your-Pantry-Step-2.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Use a damp cloth to wipe crumbs, dust, dirt, and debris off the empty shelves.",
+            "explanation":"Allow each shelves to dry thoroughly.",
+            "precaution":"",
+            "image":"https://www.wikihow.com/images/thumb/e/e7/Clean-up-Your-Pantry-Step-4.jpg/aid1432752-v4-728px-Clean-up-Your-Pantry-Step-4.jpg.webp",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Clean every container as you return them to the shelves.",
+            "explanation":"If anything has leaked or gotten sticky or oily on the bottom, wipe them off.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Organize items as you put them back.",
+            "explanation":"Put spices in one place, canned foods in another. If snacks or baking supplies are a part of the store, make separate spaces for those, too.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Sweep the store.",
+            "explanation":"Ensure to remove cobwebs found too.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Mop the store",
+            "explanation":"Ensure to mop the store well using a bucket filled with water and soap.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        },
+        {
+            "id":"1",
+            "space":"Store",
+            "title":"Dry the store",
+            "explanation":"Squeeze the mop till the water doesn't sprinkle off it. Use it to then dry the floor.",
+            "precaution":"",
+            "image":"",
+            "time":"5 minutes"
+        }
+]

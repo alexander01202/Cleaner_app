@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342426578762",
+    "project_id": "blipmoore-cleaner",
+    "storage_bucket": "blipmoore-cleaner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342426578762:android:7ea41845dc3b91631fdbb3",
+        "android_client_info": {
+          "package_name": "com.blipmoore.blipmoore_cleaner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342426578762-cpm53hrgb378rt8mf7fdjj8ehbpphkuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJ_R4fXL5hCAA3Gve-M20ck18SSE16Wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342426578762-cpm53hrgb378rt8mf7fdjj8ehbpphkuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
